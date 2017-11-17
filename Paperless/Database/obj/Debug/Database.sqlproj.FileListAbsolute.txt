@@ -1,0 +1,9 @@
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\bin\Debug\Database.dacpac
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\bin\Debug\Database.dll
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\bin\Debug\Database.pdb
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\Model.xml
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\refactor.xml
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\postdeploy.sql
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\predeploy.sql
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\Database.dll
+C:\Ritesh\Personal\Technical\Learning\Paperless\Database\obj\Debug\Database.pdb
